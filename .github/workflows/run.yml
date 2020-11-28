@@ -1,6 +1,6 @@
 name: WeiBo_SuperTopics
- 
-off:
+on: 
+
   #push:
     #branches: [ master ]
   #pull_request:
